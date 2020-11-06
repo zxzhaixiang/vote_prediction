@@ -1,5 +1,5 @@
 
-Predict remaining mail-in vote for GA, NV, AZ, PA and NC.
+## Predict remaining mail-in vote for GA, NV, AZ, PA and NC.
 Based on New York Times data on Nov 5 9pm EST.
 
 Assumption:
@@ -9,12 +9,14 @@ Assumption:
 
 
 
+
 ### State GA
  -  County Clayton    will add  3152 votes to Biden
  -  County Taylor     will add   -42 votes to Biden
  
   Total new votes to be added to Biden:  3110
-**State GA likely to add additional  3110 marginal votes to Biden. Total Biden marginal vote:  1208**
+
+ **State GA likely to add additional  3110 marginal votes to Biden. Total Biden marginal vote:  1208**
 
 **Biden will win GA**
 
@@ -37,7 +39,8 @@ Assumption:
  -  County Washoe     will add   622 votes to Biden
  
   Total new votes to be added to Biden:  2978
-**State NV likely to add additional  2978 marginal votes to Biden. Total Biden marginal vote: 14416**
+
+ **State NV likely to add additional  2978 marginal votes to Biden. Total Biden marginal vote: 14416**
 
 **Biden will win NV**
 
@@ -57,7 +60,8 @@ Assumption:
  -  County Apache     will add   356 votes to Biden
  
   Total new votes to be added to Biden:  5930
-**State AZ likely to add additional  5930 marginal votes to Biden. Total Biden marginal vote: 52187**
+
+ **State AZ likely to add additional  5930 marginal votes to Biden. Total Biden marginal vote: 52187**
 
 **Biden will win AZ**
 
@@ -93,7 +97,8 @@ Assumption:
  -  County Union      will add  -101 votes to Biden
  
   Total new votes to be added to Biden: 45714
-**State PA likely to add additional 45714 marginal votes to Biden. Total Biden marginal vote:  3572**
+
+ **State PA likely to add additional 45714 marginal votes to Biden. Total Biden marginal vote:  3572**
 
 **Biden will win PA**
 
@@ -147,6 +152,7 @@ Assumption:
  -  County Tyrrell    will add    -5 votes to Biden
  
   Total new votes to be added to Biden: 24967
-**State NC likely to add additional 24967 marginal votes to Biden. Total Biden marginal vote: -51770**
+
+ **State NC likely to add additional 24967 marginal votes to Biden. Total Biden marginal vote: -51770**
 
 **Trump will win NC**
