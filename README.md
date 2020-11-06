@@ -8,16 +8,18 @@ Assumption:
 - only count the county that has vote rate < 98%
 
 
+
+### State GA
  -  County Clayton    will add  3152 votes to Biden
  -  County Taylor     will add   -42 votes to Biden
  
   Total new votes to be added to Biden:  3110
-
-
-### State GA
 **State GA likely to add additional  3110 marginal votes to Biden. Total Biden marginal vote:  1208**
 
 **Biden will win GA**
+
+
+### State NV
  -  County Douglas    will add -1803 votes to Biden
  -  County Lincoln    will add  -245 votes to Biden
  -  County Clark      will add  8871 votes to Biden
@@ -35,12 +37,12 @@ Assumption:
  -  County Washoe     will add   622 votes to Biden
  
   Total new votes to be added to Biden:  2978
-
-
-### State NV
 **State NV likely to add additional  2978 marginal votes to Biden. Total Biden marginal vote: 14416**
 
 **Biden will win NV**
+
+
+### State AZ
  -  County Pinal      will add -4932 votes to Biden
  -  County Graham     will add -1100 votes to Biden
  -  County Yuma       will add  -646 votes to Biden
@@ -55,12 +57,12 @@ Assumption:
  -  County Apache     will add   356 votes to Biden
  
   Total new votes to be added to Biden:  5930
-
-
-### State AZ
 **State AZ likely to add additional  5930 marginal votes to Biden. Total Biden marginal vote: 52187**
 
 **Biden will win AZ**
+
+
+### State PA
  -  County Delaware   will add 11282 votes to Biden
  -  County Centre     will add   575 votes to Biden
  -  County Crawford   will add -2433 votes to Biden
@@ -91,12 +93,12 @@ Assumption:
  -  County Union      will add  -101 votes to Biden
  
   Total new votes to be added to Biden: 45714
-
-
-### State PA
 **State PA likely to add additional 45714 marginal votes to Biden. Total Biden marginal vote:  3572**
 
 **Biden will win PA**
+
+
+### State NC
  -  County Orange     will add  9405 votes to Biden
  -  County Chowan     will add  -169 votes to Biden
  -  County Forsyth    will add  3434 votes to Biden
@@ -145,9 +147,6 @@ Assumption:
  -  County Tyrrell    will add    -5 votes to Biden
  
   Total new votes to be added to Biden: 24967
-
-
-### State NC
 **State NC likely to add additional 24967 marginal votes to Biden. Total Biden marginal vote: -51770**
 
 **Trump will win NC**
