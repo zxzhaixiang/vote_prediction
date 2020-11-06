@@ -3,7 +3,7 @@
 Based on [New York Times data](https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=election_recirc) on Nov 5 6pm EST.
 
 Assumption:
-- D/R margin remain unchange for each county 
+- D/R margin remains unchange for each county 
 - only count the county that has vote rate < 98%
 
 Results:
@@ -17,7 +17,7 @@ Results:
 
 Total new votes to be added to Biden:  3500
 
-State ga likes to add additional  3500 marginal votes to Biden. Total Biden marginal vote: -5926
+State ga likely to add additional  3500 marginal votes to Biden. Total Biden marginal vote: -5926
 
 Trump will win GA
 
@@ -40,7 +40,7 @@ Trump will win GA
 
 Total new votes to be added to Biden:  2978
 
-State nv likes to add additional  2978 marginal votes to Biden. Total Biden marginal vote: 14416
+State nv likely to add additional  2978 marginal votes to Biden. Total Biden marginal vote: 14416
 
 Biden will win NV
 
@@ -62,7 +62,7 @@ Biden will win NV
   
 Total new votes to be added to Biden: 11119
 
-State az likes to add additional 11119 marginal votes to Biden. Total Biden marginal vote: 76298
+State az likely to add additional 11119 marginal votes to Biden. Total Biden marginal vote: 76298
 
 Biden will win AZ
 
@@ -100,7 +100,7 @@ Biden will win AZ
   
 Total new votes to be added to Biden: 52977
 
-State pa likes to add additional 52977 marginal votes to Biden. Total Biden marginal vote: -20712
+State pa likely to add additional 52977 marginal votes to Biden. Total Biden marginal vote: -20712
 
 Trump will win PA
 
@@ -154,7 +154,7 @@ Trump will win PA
 
 Total new votes to be added to Biden: 24967
 
-State nc likes to add additional 24967 marginal votes to Biden. Total Biden marginal vote: -51770
+State nc likely to add additional 24967 marginal votes to Biden. Total Biden marginal vote: -51770
 
 Trump will win NC
 
