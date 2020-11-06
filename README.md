@@ -1,6 +1,6 @@
 ## Predict remaining mail-in vote for GA, NV, AZ, PA and NC.
 
-Based on [New York Times data](https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=election_recirc) on Nov 5 6pm EST.
+Based on [New York Times data](https://www.nytimes.com/interactive/2020/11/03/us/elections/results-president.html?action=click&pgtype=Article&state=default&module=styln-elections-2020&region=TOP_BANNER&context=election_recirc) on Nov 5 6pm ET.
 
 Assumption:
 - D/R margin remains unchange for each county 
@@ -161,3 +161,5 @@ Trump will win NC
 
 
 Biden 270: 268 Trump
+
+No surprise
