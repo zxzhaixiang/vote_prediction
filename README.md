@@ -1,6 +1,6 @@
 
 ## Predict remaining mail-in vote for GA, NV, AZ, PA and NC.
-Based on New York Times data on Nov 5 9pm EST.
+Based on New York Times data on Nov 5 9pm ET.
 
 Assumption:
 
